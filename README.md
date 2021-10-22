@@ -1,4 +1,4 @@
-# Tutorial do obserwacji zmian wyświetleń słów z GSC, w 8 krokach.
+# Tutorial do obserwacji zmian wyświetleń polskich słów kluczowych z GSC, w 8 krokach.
 
 ### Inspirując się artykułem https://www.maartengrootendorst.com/blog/bertopic/ stworzyłam pipeline do analizy polskich słów kluczowych. 
 
