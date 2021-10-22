@@ -14,7 +14,7 @@ Do uruchomienia tego tutorialu potrzebujesz mieć zainstalowane następujące pa
 
 Najlepiej je zainstalować przy pomocy komendy pip:
 
-`pip install hunspell
+```pip install hunspell
 pip install pandas
 pip install sentence-transformers
 pip install umap
@@ -24,7 +24,8 @@ pip install sklearn
 pip install plotly
 pip install oauth2client
 pip install google-api-python-client
-pip install requests`
+pip install requests
+```
 
 Ponadto potrzebujesz także słownika hunspell dla języka polskiego. Jeśli nie masz go zainstalowanego możesz go pobrać przy pomocy komend: 
 
